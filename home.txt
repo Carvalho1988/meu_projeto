@@ -1,2 +1,6 @@
 Esta e uma linha de texto
+<<<<<<< HEAD
 Linha escrita na main 
+=======
+linha escrita na outra branch
+>>>>>>> outra-branch
