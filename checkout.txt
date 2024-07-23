@@ -1,0 +1,1 @@
+Arquivo checkout.txt criado nosso primeiro repositorio local
